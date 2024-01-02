@@ -37,7 +37,7 @@ Corporate Technical Trainer with deep expertise in the following technology area
 - 5+ Years as Lead Member of Technical Staff
 
 ### ATMECS Technologies Pvt. Ltd.
-- 2.9 Years as Associate Lead, DevOps
+- 2.9 Years as Tech Lead, DevOps
 
 ### Verizon
 - 3.8 Years as Specialist in System Administration
